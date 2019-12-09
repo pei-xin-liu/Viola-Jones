@@ -1,0 +1,9 @@
+Accuracy: 94.397759%
+Detect Rate: 72.344689%
+Empirical Error: 5.602241%
+False Positive : 0.100000%
+False Negative : 27.655311%
+
+Layer 0 drops negative 1720 images
+Layer 1 drops negative 310 images
+Layer 2 drops negative 106 images

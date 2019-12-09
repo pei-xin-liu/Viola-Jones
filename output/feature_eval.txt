@@ -1,0 +1,168 @@
+Adaboost Round: 1
+
+Feature number 1:
+Type: two horizontal
+Position: (8, 2)
+Width: 2
+Height: 8
+Threshold: -0.407845
+Training accuracy: 0.848339
+
+==================================
+
+Adaboost Round: 3
+
+Feature number 1:
+Type: two horizontal
+Position: (8, 2)
+Width: 2
+Height: 8
+Threshold: -0.407845
+Training accuracy: 0.848339
+
+Feature number 2:
+Type: two vertical
+Position: (3, 3)
+Width: 2
+Height: 6
+Threshold: 0.796080
+Training accuracy: 0.807523
+
+Feature number 3:
+Type: four
+Position: (13, 14)
+Width: 6
+Height: 4
+Threshold: -0.376457
+Training accuracy: 0.824730
+
+==================================
+
+Adaboost Round: 5
+
+Feature number 1:
+Type: two horizontal
+Position: (8, 2)
+Width: 2
+Height: 8
+Threshold: -0.407845
+Training accuracy: 0.848339
+
+Feature number 2:
+Type: two vertical
+Position: (3, 3)
+Width: 2
+Height: 6
+Threshold: 0.796080
+Training accuracy: 0.807523
+
+Feature number 3:
+Type: four
+Position: (13, 14)
+Width: 6
+Height: 4
+Threshold: -0.376457
+Training accuracy: 0.824730
+
+Feature number 4:
+Type: two horizontal
+Position: (11, 9)
+Width: 6
+Height: 3
+Threshold: -0.588230
+Training accuracy: 0.815526
+
+Feature number 5:
+Type: two vertical
+Position: (6, 0)
+Width: 8
+Height: 2
+Threshold: -0.466666
+Training accuracy: 0.821128
+
+==================================
+
+Adaboost Round: 10
+
+Feature number 1:
+Type: two horizontal
+Position: (8, 2)
+Width: 2
+Height: 8
+Threshold: -0.407845
+Training accuracy: 0.848339
+
+Feature number 2:
+Type: two vertical
+Position: (3, 3)
+Width: 2
+Height: 6
+Threshold: 0.796080
+Training accuracy: 0.807523
+
+Feature number 3:
+Type: four
+Position: (13, 14)
+Width: 6
+Height: 4
+Threshold: -0.376457
+Training accuracy: 0.824730
+
+Feature number 4:
+Type: two horizontal
+Position: (11, 9)
+Width: 6
+Height: 3
+Threshold: -0.588230
+Training accuracy: 0.815526
+
+Feature number 5:
+Type: two vertical
+Position: (6, 0)
+Width: 8
+Height: 2
+Threshold: -0.466666
+Training accuracy: 0.821128
+
+Feature number 6:
+Type: four
+Position: (2, 15)
+Width: 6
+Height: 4
+Threshold: 0.129408
+Training accuracy: 0.729492
+
+Feature number 7:
+Type: four
+Position: (0, 0)
+Width: 2
+Height: 6
+Threshold: -0.074510
+Training accuracy: 0.762705
+
+Feature number 8:
+Type: two vertical
+Position: (15, 3)
+Width: 4
+Height: 4
+Threshold: 0.431366
+Training accuracy: 0.765906
+
+Feature number 9:
+Type: two vertical
+Position: (8, 11)
+Width: 1
+Height: 2
+Threshold: 0.043137
+Training accuracy: 0.783914
+
+Feature number 10:
+Type: two horizontal
+Position: (8, 9)
+Width: 2
+Height: 1
+Threshold: -0.050980
+Training accuracy: 0.845538
+
+==================================
+

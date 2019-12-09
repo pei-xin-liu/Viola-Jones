@@ -1,0 +1,15 @@
+Criterion: Empirical
+Total Accuracy: 81.641731%
+False Positive : 1.599200%
+False Negative : 89.406780%
+
+Criterion: False_Positive
+Total Accuracy: 81.439547%
+False Positive : 2.348826%
+False Negative : 87.288136%
+
+Criterion: False_Negative
+Total Accuracy: 71.977355%
+False Positive : 21.389305%
+False Negative : 56.144068%
+

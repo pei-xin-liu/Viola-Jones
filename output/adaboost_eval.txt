@@ -1,0 +1,15 @@
+Criterion: Empirical
+Empirical Error: 18.358269%
+False Positive : 1.599200%
+False Negative : 89.406780%
+
+Criterion: False_Positive
+Empirical Error: 18.560453%
+False Positive : 2.348826%
+False Negative : 87.288136%
+
+Criterion: False_Negative
+Empirical Error: 28.022645%
+False Positive : 21.389305%
+False Negative : 56.144068%
+

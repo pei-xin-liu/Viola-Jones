@@ -1,0 +1,20 @@
+Adaboost Round: 1
+Total Accuracy: 78.811161%
+False Positive : 9.495252%
+False Negative : 70.762712%
+
+Adaboost Round: 3
+Total Accuracy: 82.571775%
+False Positive : 3.148426%
+False Negative : 77.966102%
+
+Adaboost Round: 5
+Total Accuracy: 81.641731%
+False Positive : 1.599200%
+False Negative : 89.406780%
+
+Adaboost Round: 10
+Total Accuracy: 82.854832%
+False Positive : 0.699650%
+False Negative : 86.864407%
+
