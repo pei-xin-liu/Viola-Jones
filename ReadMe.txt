@@ -3,6 +3,8 @@ To run the code, please use python 3.7.2. Extra library include pillow and numpy
 To find number of features as in part 2.1 and train single adaboost detector as in part 2.2, 2.3, run:
 python train_ada.py
 
+First go to ./dataset/ directory
+
 To find result of 2.1, 2.2, 2.3 and write them in txt file, run:
 python eval_adaboost.py
 
